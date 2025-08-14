@@ -9,4 +9,6 @@
 
 ## 八股
 
+大部分由 AI 生成（ Kimi-K2 模型 ）
+
 1. https://vue3js.cn/interview/
